@@ -1,0 +1,18 @@
+h1 {
+	 font-size: 100px;
+    color: #f9ff00;
+    text-align: center;
+    font-family: cursive;
+}
+body {
+	background: black;
+}
+h2 { 
+      color: #437780fa;
+    font-size: 50px;
+    text-align: right;
+    font-family: monospace;
+}
+p {
+	font-size: 25px;
+}
